@@ -1,5 +1,5 @@
 {
-    "name": "hshn/base64-encoded-file",
+    "name": "blendisnl/base64-encoded-file",
     "description": "Provides handling base64 encoded files, and the integration of symfony/form",
     "license": "MIT",
     "authors": [
@@ -10,8 +10,8 @@
     ],
     "require": {
         "php": "^7.4.0 || ^8.0.0",
-        "symfony/http-foundation": "^4.4.7 || ^5.0.7",
-        "symfony/mime": "^4.3.8 || ^5.0"
+        "symfony/http-foundation": "^4.4.7 || ^5.0.7 || ^6.0",
+        "symfony/mime": "^4.3.8 || ^5.0 || ^6.0"
     },
     "require-dev": {
         "symfony/form": "^4.0 || ^5.0",
